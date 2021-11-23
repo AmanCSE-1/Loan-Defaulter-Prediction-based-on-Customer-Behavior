@@ -13,4 +13,9 @@ To run the program, you can execute any of the two steps :
     3. Run the main.ipynb cell.
     
     
-Note : Do check the requirement.txt file for software versions used in the project.
+Note : 
+- Do check the requirement.txt file for software versions used in the project.
+- For the dataset, you can use this url [Dataset Link](https://raw.githubusercontent.com/AmanCSE-1/Loan-Defaulter-Prediction-based-on-Customer-Behavior/main/Loan%20Defaulter%20Dataset.csv)
+
+Task :
+- [ ] Create requirement.txt
