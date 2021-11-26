@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://analyticsindiamag.com/wp-content/uploads/2015/05/Detecting-loan-defaults-at-an-early-stage-using-models-of-machine-intelligence.jpg" 
+       height="480" width="620" title="hover text">
+</p>
+
 # Loan-Defaulter-Prediction
 
 The given repo consists of main.ipynb (jupyter notebook) and Dataset. The complete program is written in main.ipynb
