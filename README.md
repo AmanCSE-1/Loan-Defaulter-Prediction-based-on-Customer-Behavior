@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://analyticsindiamag.com/wp-content/uploads/2015/05/Detecting-loan-defaults-at-an-early-stage-using-models-of-machine-intelligence.jpg" 
-       height="480" width="620" title="hover text">
+       height="480" width="620" title="Loan Defaulter Prediction">
 </p>
 
 # Loan-Defaulter-Prediction
