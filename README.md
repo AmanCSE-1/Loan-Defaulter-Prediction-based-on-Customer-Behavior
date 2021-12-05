@@ -6,7 +6,13 @@
 # Loan-Defaulter-Prediction
 
 ## Introduction :
-Banks are essentials bodies of the societies which not only serve as a secret vault for storing money but also help people in time of need by providing loans and credit. However, the rate of loan default is increasing exponentially. According to Forbes, say that nearly 40% of borrowers are expected to default on their stiudent loans by 2023. Considering the statistics, instead of making money from the loan interest, bank will suffer a huge capital loss. In order to prevent the loss, it is very important to have a system in place which can accurately predict the loan defaulters even before approving the loan.   
+Banks are essentials bodies of the societies which not only serve as a secret vault for storing money but also help people in time of need by providing loans and credit. However, the rate of loan default is increasing exponentially. According to Forbes, say that nearly 40% of borrowers are expected to default on their stiudent loans by 2023. Considering the statistics, instead of making money from the loan interest, bank will suffer a huge capital loss. In order to prevent the loss, it is very important to have a system in place which can accurately predict the loan defaulters even before approving the loan. <br><br>
+
+## Problem Definition :
+Designing a machine learning model to predict defaulter based on the basis of the historic customer behaviour.
+- A Financial organization wants to predict the possible defaulters for the consumer loans product.
+- They have data about historic customer behavior based on what they have observed.
+- Hence when they acquire new customers they want to predict who is riskier and who is not.
 
 
 ## 
