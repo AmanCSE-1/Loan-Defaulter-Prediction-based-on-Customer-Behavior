@@ -14,6 +14,13 @@ Designing a machine learning model to predict defaulter based on the basis of th
 - They have data about historic customer behavior based on what they have observed.
 - Hence when they acquire new customers they want to predict who is riskier and who is not.
 
+## Libraries/Framework Used:
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- Scikit-Learn
+- Flask
 
 ## 
 The given repo consists of main.ipynb (jupyter notebook) and Dataset. The complete program is written in main.ipynb
