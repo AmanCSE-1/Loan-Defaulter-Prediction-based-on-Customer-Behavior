@@ -13,14 +13,11 @@ Designing a machine learning model to predict defaulter based on the basis of th
 - A Financial organization wants to predict the possible defaulters for the consumer loans product.
 - They have data about historic customer behavior based on what they have observed.
 - Hence when they acquire new customers they want to predict who is riskier and who is not.
+<br>
 
 ## Libraries/Framework Used:
-- Pandas
-- Numpy
-- Matplotlib
-- Seaborn
-- Scikit-Learn
-- Flask
+<img src="https://img.shields.io/badge/Pandas-v1.3.3-blue" href="https://pandas.pydata.org/" />  <img src="https://img.shields.io/badge/Numpy-v1.21.2-yellow" href="https://numpy.org/"/>  <img src="https://img.shields.io/badge/Matplotlib-v3.4.3-orange" href="https://matplotlib.org/"/>  <img src="https://img.shields.io/badge/Seaborn-v0.11.2-light_red" href="https://seaborn.pydata.org/"/>  <img src="https://img.shields.io/badge/Scikit--learn-v1.0-9cf" href="https://scikit-learn.org/"/>  <img src="https://img.shields.io/badge/Flask-v1.21.2-blueviolet" href="https://flask.palletsprojects.com/"/>
+<br>
 
 ## 
 The given repo consists of main.ipynb (jupyter notebook) and Dataset. The complete program is written in main.ipynb
